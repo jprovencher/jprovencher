@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jprovencher
 - 👀 Intérêts:  Optimisation discrète, programmation par contraintes, etc
-- 🌱 Apprentissafes en cours (2021): Théorie des groupes, Théorie des graphes
+- 🌱 Apprentissages en cours (2021): Théorie des groupes, Théorie des graphes
 
 
 <!---
