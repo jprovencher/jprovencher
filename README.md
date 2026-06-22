@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jprovencher
 - 👀 Intérêts:  Optimisation discrète, programmation par contraintes, etc
-- 🌱 Apprentissages en cours (2022): Clustering stochastique, Théorie des graphes, Scheduling
+- 🌱 Apprentissages en cours (2026): Clustering stochastique, Scheduling, LLMs pour inférence thématique!
 
 
 <!---
